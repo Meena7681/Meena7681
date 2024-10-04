@@ -17,3 +17,14 @@ Here are some ideas to get you started:
 
 ### Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meena7681&langs_count=15&layout=compact&theme=onedark)
+
+### GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meena7681&show_icons=true&theme=dark)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourwakatimeusername)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=meena7681.yourrepo)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
+
+
