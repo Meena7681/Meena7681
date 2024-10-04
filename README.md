@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meena7681&show_icons=true&theme=dark)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourwakatimeusername)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=meena7681)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=meena7681.yourrepo)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=meena7681&theme=github)
 
 
