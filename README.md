@@ -14,18 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=meena7681.yourrepo)
 ### Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meena7681&langs_count=15&layout=compact&theme=onedark)
-
-### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meena7681&show_icons=true&theme=dark)
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=meena7681.yourrepo)
-
-### GitHub Activity Graph:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=meena7681&theme=react-dark&hide_border=true&area=true)
-
-
 
